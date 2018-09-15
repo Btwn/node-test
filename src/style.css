@@ -1,9 +1,0 @@
-@font-face {
-    font-family: 'MyFont';
-    src: url('./Headster-RegularDemo.ttf')
-}
-
-.hello {
-    color: red;
-    font-family: 'MyFont'
-}
